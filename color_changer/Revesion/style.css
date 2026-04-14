@@ -1,0 +1,24 @@
+body {
+  text-align: center;
+}
+span {
+  display: inline-block;
+  border: 3px solid black;
+  padding: 60px;
+  margin: 5px;
+}
+.black {
+  background-color: black;
+}
+.lightPink {
+  background-color: lightpink;
+}
+.yellow {
+  background-color: yellow;
+}
+.lightBlue {
+  background-color: lightblue;
+}
+.white {
+  background-color: white;
+}

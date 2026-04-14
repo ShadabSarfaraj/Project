@@ -1,0 +1,27 @@
+body {
+  margin-top: 30%;
+  text-align: center;
+}
+h1 {
+  margin-bottom: 50px;
+}
+span {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: 2px solid black;
+}
+
+#grey {
+  background-color: grey;
+}
+#white {
+  background-color: white;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
